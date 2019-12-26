@@ -101,7 +101,7 @@
   "global-navigation-wikis-fandom-university": "Университет ФЭНДОМА", 
   "global-navigation-wikis-header": "Вики", 
   "hours-ago": "{hours} ч.", 
-  "license-description": "Материалы сообщества доступны в соответствии с условиями лицензии {license}, если не указано иное.", 
+  "license-description": "Материалы сообщества доступны в соответствии с условиями лицензии {license}&#44; если не указано иное.", 
   "minutes-ago": "{minutes} мин.", 
   "notifications-mark-all-as-read": "Отметить всё как прочитанное", 
   "notifications-no-notifications-message": "Уведомлений нет.", 
@@ -126,7 +126,7 @@
   "wds-avatar-badges-admin-tooltip": "Администратор сообщества", 
   "wds-avatar-badges-content-moderator-tooltip": "Модератор контента", 
   "wds-avatar-badges-discussion-moderator-tooltip": "Модератор обсуждений", 
-  "wds-avatar-badges-global-discussions-moderator-tooltip": "Модератор Обсуждений ФЭНДОМА", 
+  "wds-avatar-badges-global-discussions-moderator-tooltip": "Модератор обсуждений ФЭНДОМА", 
   "wds-avatar-badges-helper-tooltip": "Помощник ФЭНДОМА", 
   "wds-avatar-badges-staff-tooltip": "Сотрудник ФЭНДОМА", 
   "wds-avatar-badges-vstf-tooltip": "VSTF"
